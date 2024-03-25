@@ -58,7 +58,7 @@ A Engenharia de Requisitos é uma disciplina com a finalidade de gerenciar os re
 
 
 
-     Caso queira ver mais informações sobre o assunto, [clique aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
+     Você pode estudar mais sobre o assunto [clicando aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
   
      
 
